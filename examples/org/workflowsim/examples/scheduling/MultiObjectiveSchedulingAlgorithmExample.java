@@ -33,9 +33,8 @@ import org.workflowsim.utils.ReplicaCatalog;
 /**
  * This MINMIN Scheduling Algorithm
  *
- * @author Weiwei Chen
- * @since WorkflowSim Toolkit 1.1
- * @date Nov 9, 2013
+ * @author AbdullahKG
+ * @date Nov 10, 2024
  */
 public class MultiObjectiveSchedulingAlgorithmExample extends DataAwareSchedulingAlgorithmExample {
 
